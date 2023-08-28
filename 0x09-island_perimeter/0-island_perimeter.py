@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""Change making module.
+"""
+
+
 def island_perimeter(grid):
     if not grid or not grid[0]:
         return 0
